@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lotus on 全面進化(Transcendence)</title>
+    <link>https://luckyhuang168.github.io/tags/lotus/</link>
+    <description>Recent content in lotus on 全面進化(Transcendence)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 24 Jul 2020 17:08:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://luckyhuang168.github.io/tags/lotus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lucky 的第一篇部落格文章</title>
+      <link>https://luckyhuang168.github.io/blog/lucky_first_blog/</link>
+      <pubDate>Fri, 24 Jul 2020 17:08:47 +0800</pubDate>
+      
+      <guid>https://luckyhuang168.github.io/blog/lucky_first_blog/</guid>
+      <description>Hello world!
+我是 Lucky!
+一級標題 二級標題 六級標題 我是Lucky，希望幫助人類全面進化(Transcendence)
+ Happy  No angry  emotion control     Health   Wealth  Invest create   peace   哈囉</description>
+    </item>
+    
+  </channel>
+</rss>
