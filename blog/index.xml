@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on 全面進化(Transcendence)</title>
+    <title>Blogs on 全面進化(Transcendence)</title>
     <link>https://luckyhuang168.github.io/blog/</link>
-    <description>Recent content in blog on 全面進化(Transcendence)</description>
+    <description>Recent content in Blogs on 全面進化(Transcendence)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 19:03:47 +0800</lastBuildDate>
     
 	<atom:link href="https://luckyhuang168.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lucky 的第二篇部落格文章</title>
+      <link>https://luckyhuang168.github.io/blog/lucky_second_blog/</link>
+      <pubDate>Fri, 24 Jul 2020 19:03:47 +0800</pubDate>
+      
+      <guid>https://luckyhuang168.github.io/blog/lucky_second_blog/</guid>
+      <description>這是我的第二篇文章</description>
+    </item>
     
     <item>
       <title>Lucky 的第一篇部落格文章</title>
